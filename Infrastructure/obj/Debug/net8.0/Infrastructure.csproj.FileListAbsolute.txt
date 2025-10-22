@@ -1,0 +1,17 @@
+D:\POO\API\FullStackMusic\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\POO\API\FullStackMusic\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\POO\API\FullStackMusic\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\POO\API\FullStackMusic\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\POO\API\FullStackMusic\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\POO\API\FullStackMusic\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
