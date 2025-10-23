@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj": {}
+    "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj": {
+    "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj",
+        "projectPath": "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "D:\\POO\\API\\FullStackMusic\\Domain\\obj\\",
+        "outputPath": "D:\\POO\\api\\FullStackMusic\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3433,11 +3433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POO\\API\\FullStackMusic\\Fullstack.Api\\Fullstack.Api.csproj",
+      "projectUniqueName": "D:\\POO\\api\\FullStackMusic\\Fullstack.Api\\Fullstack.Api.csproj",
       "projectName": "Fullstack.Api",
-      "projectPath": "D:\\POO\\API\\FullStackMusic\\Fullstack.Api\\Fullstack.Api.csproj",
+      "projectPath": "D:\\POO\\api\\FullStackMusic\\Fullstack.Api\\Fullstack.Api.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "D:\\POO\\API\\FullStackMusic\\Fullstack.Api\\obj\\",
+      "outputPath": "D:\\POO\\api\\FullStackMusic\\Fullstack.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3458,14 +3458,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\POO\\API\\FullStackMusic\\Application\\Application.csproj": {
-              "projectPath": "D:\\POO\\API\\FullStackMusic\\Application\\Application.csproj"
+            "D:\\POO\\api\\FullStackMusic\\Application\\Application.csproj": {
+              "projectPath": "D:\\POO\\api\\FullStackMusic\\Application\\Application.csproj"
             },
-            "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj"
+            "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj"
             },
-            "D:\\POO\\API\\FullStackMusic\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\POO\\API\\FullStackMusic\\Infrastructure\\Infrastructure.csproj"
+            "D:\\POO\\api\\FullStackMusic\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\POO\\api\\FullStackMusic\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

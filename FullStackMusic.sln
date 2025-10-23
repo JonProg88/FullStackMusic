@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fullstack.Api", "Fullstack.Api\Fullstack.Api.csproj", "{C1185D82-5B6B-494E-A170-8F60531C3312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fullstack.Tests", "Fullstack.Tests\Fullstack.Tests.csproj", "{F4EDFB9A-4A7E-4AF0-B170-E7CB578B7D76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{C1185D82-5B6B-494E-A170-8F60531C3312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1185D82-5B6B-494E-A170-8F60531C3312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1185D82-5B6B-494E-A170-8F60531C3312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EDFB9A-4A7E-4AF0-B170-E7CB578B7D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EDFB9A-4A7E-4AF0-B170-E7CB578B7D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EDFB9A-4A7E-4AF0-B170-E7CB578B7D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EDFB9A-4A7E-4AF0-B170-E7CB578B7D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

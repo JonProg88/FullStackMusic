@@ -72,6 +72,7 @@ D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\Fullstack.Api.AssemblyI
 D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\Fullstack.Api.csproj.CoreCompileInputs.cache
 D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\Fullstack.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\Fullstack.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\Fullstack.Api.sourcelink.json
 D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\POO\API\FullStackMusic\Fullstack.Api\obj\Debug\net8.0\staticwebassets\msbuild.Fullstack.Api.Microsoft.AspNetCore.StaticWebAssets.props

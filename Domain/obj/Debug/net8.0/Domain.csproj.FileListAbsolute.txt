@@ -5,6 +5,7 @@ D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorC
 D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.sourcelink.json
 D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.dll
 D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.pdb

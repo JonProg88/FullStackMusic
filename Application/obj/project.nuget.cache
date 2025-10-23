@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gLUMXo/qn7ljU1f0gl2/y25Wn7hIr+y4cm8eZz6ngOhm9mzejCzbBCwLjFjm1zL5zjvzt3ZZpWxM9wLZPMbTSA==",
+  "dgSpecHash": "8i0FsDBiysn4cMyJw3ePdesh2ZyU+Ptznef2dLhw7fsPQeQ1/fCmRTGInKrnf3wLlvbIaxaYEAnqQmNKRY8/sQ==",
   "success": true,
-  "projectFilePath": "D:\\POO\\API\\FullStackMusic\\Application\\Application.csproj",
+  "projectFilePath": "D:\\POO\\api\\FullStackMusic\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

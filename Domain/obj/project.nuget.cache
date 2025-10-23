@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i1hFA1aJ41JX3JxWD9+FDuJMAI9juoXA2XMgi4QwclCbKuUwVGbBCExSy5ZQjMQ1yDGeT8uZwRCD2Eh8VIeGzw==",
+  "dgSpecHash": "+UEEiGkg30Fxwck4OF3LaSODdBaj6L7KzghHleu9JcsUT7U9wytT4lBcuvYnMujp0XpabxKf3K7AErRYez/2iw==",
   "success": true,
-  "projectFilePath": "D:\\POO\\API\\FullStackMusic\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\POO\\api\\FullStackMusic\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

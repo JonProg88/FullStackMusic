@@ -9,6 +9,7 @@ D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.Generat
 D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
 D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
 D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
 D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 D:\POO\API\FullStackMusic\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
