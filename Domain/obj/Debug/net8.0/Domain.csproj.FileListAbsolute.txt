@@ -1,0 +1,11 @@
+D:\POO\API\FullStackMusic\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\POO\API\FullStackMusic\Domain\bin\Debug\net8.0\Domain.dll
+D:\POO\API\FullStackMusic\Domain\bin\Debug\net8.0\Domain.pdb
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.dll
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\Domain.pdb
+D:\POO\API\FullStackMusic\Domain\obj\Debug\net8.0\ref\Domain.dll
